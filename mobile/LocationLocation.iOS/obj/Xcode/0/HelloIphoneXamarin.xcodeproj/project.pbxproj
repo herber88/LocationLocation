@@ -1,0 +1,218 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		268951400000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F9A1B200000000000000000 /* UIKit.framework */; };
+		23FE38470000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 278F44E50000000000000000 /* MapKit.framework */; };
+		3931A0DF0000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CC2AD7D0000000000000000 /* Foundation.framework */; };
+		2C9C83280000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 302D8FC60000000000000000 /* CoreGraphics.framework */; };
+		3B4CF39D0000000000000000 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EDE003B0000000000000000 /* MainStoryboard.storyboard */; };
+		5A31E0000000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 3EB3E7E00000000000000000 /* AppDelegate.h */; };
+		357428EA0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 390535880000000000000000 /* AppDelegate.m */; };
+		28DF0B330000000000000000 /* HelloIphoneXamarinViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 2C7017D10000000000000000 /* HelloIphoneXamarinViewController.h */; };
+		6E3A1C800000000000000000 /* HelloIphoneXamarinViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A74AE6600000000000000000 /* HelloIphoneXamarinViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		37D056750000000000000000 /* HelloIphoneXamarin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "HelloIphoneXamarin.app"; path = "HelloIphoneXamarin.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F9A1B200000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		278F44E50000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		3CC2AD7D0000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		302D8FC60000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		3EDE003B0000000000000000 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "MainStoryboard.storyboard"; path = "MainStoryboard.storyboard"; sourceTree = "<group>"; };
+		3EB3E7E00000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		390535880000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		2C7017D10000000000000000 /* HelloIphoneXamarinViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "HelloIphoneXamarinViewController.h"; path = "HelloIphoneXamarinViewController.h"; sourceTree = "<group>"; };
+		A74AE6600000000000000000 /* HelloIphoneXamarinViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "HelloIphoneXamarinViewController.m"; path = "HelloIphoneXamarinViewController.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		148B9E810000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				268951400000000000000000 /* UIKit.framework in Frameworks */,
+				23FE38470000000000000000 /* MapKit.framework in Frameworks */,
+				3931A0DF0000000000000000 /* Foundation.framework in Frameworks */,
+				2C9C83280000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		34A5100F0000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				1F3EC45B0000000000000000 /* HelloIphoneXamarin */,
+				2E9428700000000000000000 /* Frameworks */,
+				29F1EA350000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		29F1EA350000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				37D056750000000000000000 /* HelloIphoneXamarin.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		2E9428700000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5F9A1B200000000000000000 /* UIKit.framework */,
+				278F44E50000000000000000 /* MapKit.framework */,
+				3CC2AD7D0000000000000000 /* Foundation.framework */,
+				302D8FC60000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		1F3EC45B0000000000000000 /* HelloIphoneXamarin */ = {
+			isa = PBXGroup;
+			children = (
+				3EB3E7E00000000000000000 /* AppDelegate.h */,
+				2C7017D10000000000000000 /* HelloIphoneXamarinViewController.h */,
+				3EDE003B0000000000000000 /* MainStoryboard.storyboard */,
+				375620C70000000000000000 /* Supporting Files */,
+			);
+			name = "HelloIphoneXamarin";
+			sourceTree = "<group>";
+		};
+		375620C70000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				390535880000000000000000 /* AppDelegate.m */,
+				A74AE6600000000000000000 /* HelloIphoneXamarinViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2C8487470000000000000000 /* HelloIphoneXamarin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2D1D309B0000000000000000 /* Build configuration list for PBXNativeTarget "HelloIphoneXamarin" */;
+			buildPhases = (
+				3F2552CD0000000000000000 /* Sources */,
+				148B9E810000000000000000 /* Frameworks */,
+				280FF2580000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "HelloIphoneXamarin";
+			productName = "HelloIphoneXamarin";
+			productReference = 37D056750000000000000000 /* HelloIphoneXamarin.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		21D1616D0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1ED8FE230000000000000000 /* Build configuration list for PBXProject "HelloIphoneXamarin" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 34A5100F0000000000000000;
+			productRefGroup = 29F1EA350000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2C8487470000000000000000 /* HelloIphoneXamarin */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		280FF2580000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B4CF39D0000000000000000 /* MainStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F2552CD0000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A31E0000000000000000000 /* AppDelegate.h in Sources */,
+				357428EA0000000000000000 /* AppDelegate.m in Sources */,
+				28DF0B330000000000000000 /* HelloIphoneXamarinViewController.h in Sources */,
+				6E3A1C800000000000000000 /* HelloIphoneXamarinViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		20552FC80000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		1425D8490000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "HelloIphoneXamarin";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1ED8FE230000000000000000 /* Build configuration list for PBXProject "HelloIphoneXamarin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				20552FC80000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		2D1D309B0000000000000000 /* Build configuration list for PBXNativeTarget "HelloIphoneXamarin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1425D8490000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 21D1616D0000000000000000 /* Project object */;
+}

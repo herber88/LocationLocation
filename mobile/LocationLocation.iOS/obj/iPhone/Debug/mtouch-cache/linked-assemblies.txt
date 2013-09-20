@@ -1,0 +1,3 @@
+/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/iPhone/Debug/mtouch-cache/Link/HelloIphoneXamarin.exe
+/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll

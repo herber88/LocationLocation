@@ -1,0 +1,137 @@
+THelloIphoneXamarin
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/AppDelegate-8D1841BE2515B5E5.o /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarinViewController-21A11ADB2B2B04F8.o /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/HelloIphoneXamarinViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/HelloIphoneXamarin normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051C72F0A0000000000000110
+t1372008202
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005109FAE10000000000228FE0
+t1359608545
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005109FAE300000000003DDFA0
+t1359608547
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005109FAE500000000000F9CF0
+t1359608549
+s1023216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005109FAE80000000000AB6230
+t1359608552
+s11231792
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/AppDelegate.m
+c00000000522501370000000000000144
+t1378156855
+s324
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/AppDelegate-8D1841BE2515B5E5.o
+t2
+s0
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarin.LinkFileList
+c0000000052332463000000000000020D
+t1379083363
+s525
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarinViewController-21A11ADB2B2B04F8.o
+t2
+s0
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app
+t2
+s0
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app.dSYM
+t2
+s0
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/HelloIphoneXamarin
+t2
+s0
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/HelloIphoneXamarinViewController.m
+c000000005233128500000000000001AF
+t1379078789
+s431
+
+N/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/MainStoryboard.storyboard
+c00000000523324630000000000002025
+t1379083363
+s8229
+
+CBuild AST from /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/AppDelegate.m
+r0
+
+CBuild AST from /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/HelloIphoneXamarinViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8b33aae35be3b741^66bfaee35be3b741^-239"warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/HelloIphoneXamarinViewController.h' of type sourcecode.c.h for architecture i3862(21%IDEActivityLogMessage2@108"Warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386-400776163#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@129"Warning: no rule to process file '$(PROJECT_DIR)/HelloIphoneXamarinViewController.h' of type sourcecode.c.h for architecture i386-400776163#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"7F41C13C-282B-436E-A5F4-DB5E5BA0F035-
+
+CCompileC DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/AppDelegate-8D1841BE2515B5E5.o /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400776163.683480
+e400776164.198860
+r1
+xCompileC
+xDerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/AppDelegate-8D1841BE2515B5E5.o
+x/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/AppDelegate.m4627afe35be3b741^60e732e45be3b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/AppDelegate.m0000000000000000^4582"CompileC DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/AppDelegate-8D1841BE2515B5E5.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/HelloIphoneXamarin-generated-files.hmap -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/HelloIphoneXamarin-own-target-headers.hmap -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/HelloIphoneXamarin-all-target-headers.hmap -iquote /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/HelloIphoneXamarin-project-headers.hmap -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/DerivedSources/i386 -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/DerivedSources -F/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/AppDelegate-8D1841BE2515B5E5.d --serialize-diagnostics /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/AppDelegate-8D1841BE2515B5E5.dia -c /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/AppDelegate.m -o /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/AppDelegate-8D1841BE2515B5E5.o36"391901C9-F97B-4DE4-B39A-1B0DDAAE40FB-
+
+CCompileC DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarinViewController-21A11ADB2B2B04F8.o /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/HelloIphoneXamarinViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s400776163.683488
+e400776164.254130
+r1
+xCompileC
+xDerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarinViewController-21A11ADB2B2B04F8.o
+x/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/HelloIphoneXamarinViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/HelloIphoneXamarinViewController.m0e4bafe35be3b741^bf0d41e45be3b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/HelloIphoneXamarinViewController.m0000000000000000^4708"CompileC DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarinViewController-21A11ADB2B2B04F8.o HelloIphoneXamarinViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/HelloIphoneXamarin-generated-files.hmap -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/HelloIphoneXamarin-own-target-headers.hmap -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/HelloIphoneXamarin-all-target-headers.hmap -iquote /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/HelloIphoneXamarin-project-headers.hmap -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/DerivedSources/i386 -I/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/DerivedSources -F/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarinViewController-21A11ADB2B2B04F8.d --serialize-diagnostics /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarinViewController-21A11ADB2B2B04F8.dia -c /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/HelloIphoneXamarinViewController.m -o /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarinViewController-21A11ADB2B2B04F8.o36"A8964513-3B38-42A6-AE77-2DD43BF93AE2-
+
+CCompileStoryboard /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/MainStoryboard.storyboard
+r0
+
+CGenerateDSYMFile /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app.dSYM /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/HelloIphoneXamarin
+r0
+
+CLd /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/HelloIphoneXamarin normal i386
+s400776164.254266
+e400776164.373153
+r0
+xLd
+x/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/HelloIphoneXamarin
+xnormal
+xi386
+oUndefined symbols for architecture i386:
+o  "_main", referenced from:
+o      start in crt1.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection192"Link /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/HelloIphoneXamarin7f2f41e45be3b741^12845fe45be3b741^-217"Undefined symbols for architecture i386:  "_main", referenced from:      start in crt1.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@25""_main", referenced from:-400776164#41#28#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@15"Start in crt1.o-400776164#69#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-400776164#91#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-400776164#137#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--1631"Ld DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/HelloIphoneXamarin normal i386    cd /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator -F/Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator -filelist /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Intermediates/HelloIphoneXamarin.build/MonoTouch-iphonesimulator/HelloIphoneXamarin.build/Objects-normal/i386/HelloIphoneXamarin.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework MapKit -framework Foundation -framework CoreGraphics -o /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app/HelloIphoneXamarin36"C999EDE8-EE06-44F1-A1A4-84FE3D9103D1-
+
+CTouch /Users/Robert/Projects/HelloIphoneXamarin/HelloIphoneXamarin/obj/Xcode/10/DerivedData/HelloIphoneXamarin/Build/Products/MonoTouch-iphonesimulator/HelloIphoneXamarin.app
+r0
+
