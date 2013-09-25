@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationLocation.iOS", "LocationLocation.iOS\LocationLocation.iOS.csproj", "{11129647-4813-4C29-83E9-B24CD892B22E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationLocation.Android", "LocationLocation.Android\Test_app\LocationLocation.Android.csproj", "{D7D12164-5A47-455D-8846-51409F02CA64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -25,8 +27,20 @@ Global
 		{11129647-4813-4C29-83E9-B24CD892B22E}.Release|iPhone.Build.0 = Release|iPhone
 		{11129647-4813-4C29-83E9-B24CD892B22E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{11129647-4813-4C29-83E9-B24CD892B22E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Release|iPhone.Build.0 = Release|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{D7D12164-5A47-455D-8846-51409F02CA64}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = LocationLocation.iOS\LocationLocation.iOS.csproj
+		StartupItem = LocationLocation.Android\Test_app\LocationLocation.Android.csproj
 	EndGlobalSection
 EndGlobal
