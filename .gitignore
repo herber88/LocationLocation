@@ -4,3 +4,5 @@
 [Rr]elease*/
 obj/
 node_modules/
+
+*.pem
