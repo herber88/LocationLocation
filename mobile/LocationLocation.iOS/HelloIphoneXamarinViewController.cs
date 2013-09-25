@@ -33,34 +33,40 @@ namespace LocationLocation.iOS
 			base.ViewWillAppear (animated);
 		}
 
-		public override void ViewDidAppear (bool animated)
-		{
-			base.ViewDidAppear (animated);
+		public delegate void ReceiveDataDelegate(JsonObject[] data);
 
+		public static void GetData(ReceiveDataDelegate callback){
 
-			string url = "http://api.krisinformation.se/v1/feed?format=json";
+			//string url = "http://api.krisinformation.se/v1/feed?format=json";
+			string url = "http://192.168.1.118:8080/all";
+
 			var httpReq = (HttpWebRequest)HttpWebRequest.Create (new Uri (url));
 
 			httpReq.BeginGetResponse ((ar) => {
 				var request = (HttpWebRequest)ar.AsyncState;
-				using (var response = (HttpWebResponse)request.EndGetResponse (ar))     {                           
+				using (var response = (HttpWebResponse)request.EndGetResponse (ar))
+				{                           
 					var s = response.GetResponseStream ();
 					var j = (JsonObject)JsonObject.Load (s);
 
 					var results = (from result in (JsonArray)j ["Entries"]
 					               let jResult = result as JsonObject
 					               select jResult).ToArray();
-					InvokeOnMainThread (() => {
-						tblMain.Source = new TableDataSource(results);
-						tblMain.ReloadData();
-						//new UIAlertView ("Done", "Image downloaded and saved", null, "OK", null).Show();
-					});
-					/*RunOnUiThread (() => {
-						ListAdapter = new ArrayAdapter<string> (this,
-						                                        Resource.Layout.TweetItemView, results);
-					} );*/
+
+					callback(results);
 				}
 			} , httpReq);
+		}
+
+		public override void ViewDidAppear (bool animated)
+		{
+			base.ViewDidAppear (animated);
+
+			GetData((data) => InvokeOnMainThread(() => {
+				tblMain.Source = new TableDataSource(data);
+				tblMain.ReloadData();
+			}));
+
 
 
 		}

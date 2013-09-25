@@ -16,6 +16,14 @@
 	<string>MainStoryboard</string>
 	<key>MinimumOSVersion</key>
 	<string>6.0</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.herber.locationlocation</string>
+	<key>CFBundleDisplayName</key>
+	<string>LocationLocation</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+		<string>audio</string>
+	</array>
 </dict>
 </plist>
-

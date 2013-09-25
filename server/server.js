@@ -65,6 +65,9 @@ server.addRoute(
 			var long = req.query.long;
 			var myDevice = new Apn.Device(deviceToken);
 
+			/*if()
+				"http://maps.googleapis.com/maps/api/geocode/json?latlng=" + + "," + + "&sensor=false"*/
+
 			mobileClients.ios[deviceToken] = {
 				device: myDevice,
 				lat: lat,

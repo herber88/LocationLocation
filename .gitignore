@@ -6,3 +6,5 @@ obj/
 node_modules/
 
 *.pem
+*.p12
+*.cer
