@@ -1,6 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.7.0" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LocationLocation.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="LocationLocation.iOS/AppDelegate.cs" Line="142" Column="4" />
+      <File FileName="../../Code/LocationLocation/KeyValueStore.cs" Line="1" Column="1" />
+      <File FileName="../../Code/LocationLocation/LocationManager.cs" Line="1" Column="1" />
+      <File FileName="LocationLocation.iOS/HelloIphoneXamarinViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
